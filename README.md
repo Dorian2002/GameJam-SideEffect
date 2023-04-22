@@ -28,7 +28,7 @@ The player, coming out of a party, has to go back home with the highest score. H
 
 ## Start game :
 
-- Go on the itch.io page ![https://dorianf.itch.io/galacticgulps](https://dorianf.itch.io/galacticgulps) and download the .zip file.
+- Go on the itch.io page [https://dorianf.itch.io/galacticgulps](https://dorianf.itch.io/galacticgulps) and download the .zip file.
 
 - Unzip the game and enter folder, then move to Windows\ and double click on GalacticGulps.exe
 
